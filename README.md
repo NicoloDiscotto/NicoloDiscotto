@@ -45,13 +45,6 @@ Ho recentemente completato il **Master in Data Science @ ProfessionAI** (2025–
 
 ---
 
-## 📊 GitHub Stats
-
-![Nicolò's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoloDiscotto&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoloDiscotto&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📫 Contatti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolo-discotto/)
